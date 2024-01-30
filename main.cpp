@@ -1,5 +1,5 @@
 // Ramon Plascencia
-// CMPS 3350 - lab 02
+// CMPS 3350 - lab 02: source control
 // Prints each command-line argument passed into the program, one per line
 #include <stdio.h>
 
